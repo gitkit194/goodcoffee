@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "51d56a35-4db4-4f91-a5e3-80893c196af6",
+    "name": "AB Kithungururu",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/ab-kithungururu",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_42af40d7-acf7-4b0d-ad4b-4db1df8e3590.png?v=1790165598&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "84045519-2531-4bcd-a092-d14378dc5d13",
+    "name": "Almibar",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/almibar",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_5244a5f8-90e7-4a2e-ad1d-c782e637c895.png?v=1775814529&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "659c445e-7caa-4418-9dd2-ea3e337367fd",
+    "name": "Bonanza Blend",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/bonanza-blend",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/blend_250g.png?v=1748336523&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "b985ea62-6a6a-4cf9-b5ce-3468a42d5656",
+    "name": "Corazón de Jesus",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/corazon-de-jesus-1",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_d02d9973-b610-401a-bd53-422c945e3337.png?v=1782298051&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "fb3b7eb6-33f8-4787-8cfe-4d65032dd84b",
+    "name": "Dark Roast",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/dark-roast",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/dark_roast_250g.png?v=1748336371&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "edfe4374-b9b2-44b8-b313-c5c3d4cf675d",
+    "name": "Das Almas",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/das-almas",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_3ab6a59b-6b20-4135-be90-d7700789f71c.png?v=1778072435&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "077331aa-168b-4c56-b338-76f806f1066b",
+    "name": "Don Eli Reposado",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/don-eli-reposado",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_40ce4cc2-35ca-48f1-bea1-65ff51800949.png?v=1790857637&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "8c8deaa3-6bb7-40c9-84b4-295987b03d65",
+    "name": "El Martillo",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/el-martillo",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_a6e80757-4040-44d5-a029-e3c0ad48665e.png?v=1781698709&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "ace0cd16-79c8-4bcc-9af8-83d5349f523e",
+    "name": "Gogogu",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/gogogu",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/gogogu_250g.png?v=1748336319&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "d30f448c-79c4-4502-bcbb-bb08badd65e5",
+    "name": "Gogogu Decaf",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/gogogu-decaf",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/250gr_CoffeeBag_Front_Master2-2_395d7827-f1f3-4561-9fa0-d570bd91ae25.png?v=1759917053&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "2925fefd-28e6-4b80-b8db-68c0f2e4ba09",
+    "name": "Los Nogales",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/los-nogales",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/AnniversaryCoffee_483e7bdb-3377-4f8f-92ba-2444ea983acf.png?v=1791378384&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "cd868e60-287f-4a94-a7ae-8e00af8953e2",
+    "name": "Sergio Julcarima",
+    "roaster": "Bonanza Coffee Roasters",
+    "source_url": "https://bonanzacoffee.de/products/sergio-julcarima",
+    "image_url": "https://bonanzacoffee.de/cdn/shop/files/Packshot250gB2C_a0c2d49c-fbf4-4038-853d-409b6da49275.png?v=1786366344&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "4e2c7ba6-7b83-4f6d-a8ef-336731768987",
+    "name": "African Queen",
+    "roaster": "Impala Coffee",
+    "source_url": "https://wolt.com/de/deu/berlin/restaurant/impala-coffee-maaenstr-berlin",
+    "image_url": "https://imageproxy.wolt.com/assets/6923eac162c0f58ea1cb071d",
+    "method": "official-roaster-menu"
+  },
+  {
+    "id": "0c249730-11bc-4a05-8ca2-7a3d0697da1a",
+    "name": "Andres Ramirez",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/andres-ramirez",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_andres_ramirez_b2c_b3eee7f4-3007-48aa-94bc-910293a6922b.png?v=1792569340&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "58fbba70-aced-4a43-9a22-490da41e6bb0",
+    "name": "Atlas Coffee",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/atlas-coffee",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_atlas_b2c.png?v=1784803222&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "ed0185a7-d17f-4edb-a141-406f16627b35",
+    "name": "Bekele Kechara",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/murago",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_bekele_kechara_b2c.png?v=1788416797&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "59270430-cfcc-41fe-a7d4-d20d273f592b",
+    "name": "Bishan Wate",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/bishan-wate",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_b2c_bishan_wate.png?v=1772534800&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "ce4885ba-2e10-4586-9e50-17da2cef82e5",
+    "name": "Christmas Coffee",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/christmas-coffee-2025",
+    "image_url": "https://thebarn.de/cdn/shop/files/Christmas_coffee_2026.png?v=1793028202&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "f8941f46-6b30-4564-b71c-41324d85c989",
+    "name": "Gatomboya AA",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/gatomboya-aa",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_gatomboya_aa_omni_b2c.png?v=1789471221&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "a01693b4-24d2-4e25-a53f-8697b778470d",
+    "name": "Genesis Coffee",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/genesis-coffee",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_genesis.png?v=1771412695&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "9aee583d-092b-4ad8-b226-9600fcb1ded9",
+    "name": "Guava Banana",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/guava-banana",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_guava_banana_b2c_8abc931c-01b5-4545-97b8-d91c552e96be.png?v=1778494463&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "b8b1b4df-bc85-49e5-b08a-175b56fe6e5f",
+    "name": "Himalaya Maragogype",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/himalaya-maragogype",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_himalaya_maragogype_b2c.png?v=1790679479&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "fc6d913e-8b14-477a-8c80-b85178686163",
+    "name": "Jairo Arcila",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/jairo-arcila",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_jairco_arcila_cherry.png?v=1791874866&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "17e0b8c0-e73e-4661-9395-9e7f9a206848",
+    "name": "Kayon Mountain",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/summer-coffee",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_kayon_mountain_b2c.png?v=1790862319&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "d02c4953-f4da-41fe-8bc7-582b04184919",
+    "name": "Los Pirineos Anaerobic",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/los-pirineos-anaerobic",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_los_pirineos_anaerobic_b2c.png?v=1791897543&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "007a4972-c164-4aaa-b477-fb9f3ab10b41",
+    "name": "Our Plot Daterra",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/our-plot",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_our_plot_b2c.png?v=1789718177&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "fec8bbd2-d75b-4016-a00e-76cb56ce353d",
+    "name": "Sundrop",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/sundrop",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_sundrop_b2c_ec74afcd-4fb2-4887-87ec-cae7bbe08898.png?v=1785848204&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "5d1a3cf7-e960-4822-98cd-10243580658f",
+    "name": "Volcan Azul",
+    "roaster": "The Barn",
+    "source_url": "https://thebarn.de/products/volcan-azul",
+    "image_url": "https://thebarn.de/cdn/shop/files/bag_volcan_azul_caturra_250g.png?v=1791983962&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "d37e5f4f-a1d3-4f69-befd-31402e43e3aa",
+    "name": "Aponte Espresso",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/aponte-espresso",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-p-aponte-packshot-espresso-250g-bg_black_1024x1024.png?v=1778591342&width=600",
+    "method": "product"
+  },
+  {
+    "id": "3f0a4947-153a-428f-8d9b-47298e7ae605",
+    "name": "Aponte Filter",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/aponte-filter",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-p-aponte-packshot-filter-250g-bg_black_1024x1024.png?v=1778591471&width=600",
+    "method": "product"
+  },
+  {
+    "id": "925654ea-f9da-4df0-8119-615580fa3e81",
+    "name": "Blue Batak Bumbu Omniroast",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/blue-batak-bumbu-omniroast",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk_prod_blue-batak-bumbu_packshot_omniroast_250g_bg-black_1024x1024.jpg?v=1761670729&width=600",
+    "method": "product"
+  },
+  {
+    "id": "36912685-05bc-415a-af0a-864cf275e83f",
+    "name": "Dark Side Espresso",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/dark-side-espresso",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/products/KK_Darkside_Espresso_Web_small_cf1f4725-9791-4785-b649-6bd16743d099_1024x1024.jpg?v=1635165094&width=600",
+    "method": "product"
+  },
+  {
+    "id": "a63a289b-876f-4d38-9cdd-ecf42b58e869",
+    "name": "Dreamteam Espresso",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/dreamteam-espresso-1",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-prod-dreamteam-packshot-espresso-250g-bg_black_1024x1024.jpg?v=1766756936&width=600",
+    "method": "product"
+  },
+  {
+    "id": "a0db3baa-f85e-44fa-87af-f10393f3c3f4",
+    "name": "Dreamteam Filter",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/dreamteam-filter",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-prod-dreamteam-packshot-filter-250g-bg_black_c0e992aa-c38d-4d6e-9cfb-fa4775f8a85b_1024x1024.jpg?v=1766757381&width=600",
+    "method": "product"
+  },
+  {
+    "id": "23ea8ae0-7e55-4002-839d-f72bc47d5254",
+    "name": "Finca Machaca Espresso",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/finca-machaca-espresso",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-p-finca_machaca-packshot-espresso-250g-bg_black_1024x1024.png?v=1789981242&width=600",
+    "method": "product"
+  },
+  {
+    "id": "2b96e84b-1154-4f69-9b80-84c8882fe8a2",
+    "name": "Santa Catarina Espresso",
+    "roaster": "KaffeeKirsche",
+    "source_url": "https://kaffeekirsche.berlin/products/santa-catarina-espresso",
+    "image_url": "https://kaffeekirsche.berlin/cdn/shop/files/kk-p-santa_catarina-packshot-espresso-250g-bg_black_1024x1024.png?v=1785491175&width=600",
+    "method": "product"
+  },
+  {
+    "id": "bb80cb60-405c-459d-b15a-ff422cd41fbb",
+    "name": "Äthiopien Bench Maji BIO",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/aethiopien-bench-maji-bio-1020242",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/8c/f8/fe/1747402153/1020242-0.jpg?ts=1790761276",
+    "method": "product"
+  },
+  {
+    "id": "31e64d26-62f8-441a-9f31-5811cc3a15bc",
+    "name": "Äthiopien Waldespresso BIO",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/aethiopien-waldespresso-bio-1011702",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/e3/21/d1/1733761402/1011702-0.jpg?ts=1790761109",
+    "method": "product"
+  },
+  {
+    "id": "51c39df5-096d-40fc-a3d9-58413e93507f",
+    "name": "Berliner Perle Espresso",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/berliner-perle-espresso-1070752",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/69/58/a3/1733761626/1070752-0.jpg?ts=1790764375",
+    "method": "product"
+  },
+  {
+    "id": "3379a13a-916d-4258-9c89-82724bae5ea1",
+    "name": "Brasilien Fazenda da Lagoa",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/brasilien-fazenda-da-lagoa-1010102",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/70/66/d7/1719926444/1010102-0.jpg?ts=1790760217",
+    "method": "product"
+  },
+  {
+    "id": "92dfcb3f-a507-4322-9cd9-3b18d71af54b",
+    "name": "Espresso Supremo BIO",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/espresso-supremo-bio-1060202",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/9c/1e/d6/1789414962/1060202-0.jpg?ts=1790762522",
+    "method": "product"
+  },
+  {
+    "id": "80c4da11-abb1-41bc-896a-ece3b51641ea",
+    "name": "Florentiner Espresso",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/florentiner-espresso-1010072",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/22/73/1e/1733761316/1010072-0.jpg?ts=1790760158",
+    "method": "product"
+  },
+  {
+    "id": "da438c1c-5793-46dd-b080-036decabbf47",
+    "name": "Indien Malabar Monsunkaffee",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/indien-malabar-monsunkaffee-1050602",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/d1/46/71/1719984011/1050602-0.jpg?ts=1790761969",
+    "method": "product"
+  },
+  {
+    "id": "5f84a3f5-14de-48d9-9f19-e85aca752746",
+    "name": "Indien Monsunespresso",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/indien-monsunespresso-1060952",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/b2/70/b9/1719984051/1060952-0.jpg?ts=1790764264",
+    "method": "product"
+  },
+  {
+    "id": "fd2b2457-2a95-4818-b54f-8b8566e3a288",
+    "name": "Indonesien Java Blawan",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/indonesien-java-blawan-1071752",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/1a/ed/90/1719984058/1071752-0.jpg?ts=1790764675",
+    "method": "product"
+  },
+  {
+    "id": "7c182121-b7dd-41f7-b5ad-99cb80e4dc55",
+    "name": "Kenia AA+ Samburu",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/kenia-aa-samburu-1020302",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/c1/08/d8/1719984003/1020302-0.jpg?ts=1790761303",
+    "method": "product"
+  },
+  {
+    "id": "a318636c-6148-48d2-9506-3eddd92f174c",
+    "name": "Mailänder Espresso",
+    "roaster": "Berliner Kaffeerösterei",
+    "source_url": "https://shop.berliner-kaffeeroesterei.de/mailaender-espresso-1060102",
+    "image_url": "https://shop.berliner-kaffeeroesterei.de/media/f5/00/af/1789414883/1060102-0.jpg?ts=1790762444",
+    "method": "product"
+  },
+  {
+    "id": "57480d47-d275-4785-96a0-2b3946ece4c0",
+    "name": "Auszeit - Costa Rica natural",
+    "roaster": "Blaffke Rösterei",
+    "source_url": "https://blaffke.de/products/auszeit",
+    "image_url": "https://blaffke.de/cdn/shop/files/Bildschirmfoto2026-09-19um21.58.44.png?v=1789847939&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "d7c2703f-1a7a-4503-bd2c-e9fe02f712dc",
+    "name": "Blaffke Blend",
+    "roaster": "Blaffke Rösterei",
+    "source_url": "https://blaffke.de/products/blaffke-blend",
+    "image_url": "https://blaffke.de/cdn/shop/files/Bildschirmfoto2024-06-14um13.14.44.png?v=1747641144&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "e79220ca-b76d-4fcf-84b0-7013795a3851",
+    "name": "Florastraße - Äthiopien",
+    "roaster": "Blaffke Rösterei",
+    "source_url": "https://blaffke.de/products/florastrasse",
+    "image_url": "https://blaffke.de/cdn/shop/files/Bildschirmfoto2024-06-14um13.13.29.png?v=1725972433&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "3c91d61f-9c24-49ae-87c0-af1e60f39c3f",
+    "name": "Nachteule - Brasilien Decaf",
+    "roaster": "Blaffke Rösterei",
+    "source_url": "https://blaffke.de/products/nachteule",
+    "image_url": "https://blaffke.de/cdn/shop/files/Bildschirmfoto_2025-12-04_um_11.22.11.png?v=1764843765&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "38013823-e2d3-41ae-a545-c1adb1449c91",
+    "name": "Wachmacher - Brasilien",
+    "roaster": "Blaffke Rösterei",
+    "source_url": "https://blaffke.de/products/wachmacher",
+    "image_url": "https://blaffke.de/cdn/shop/files/Bildschirmfoto_2024-09-10_um_12.36.51.png?v=1725964644&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "c85bf11e-ae17-4156-b668-f32563b73abf",
+    "name": "Ayla Bombe – Espresso",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/ayla-bombe-espresso/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2026/04/AylaBombe_SeasonalEspresso_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "a853febf-3528-4c5c-9a68-6738bb1429da",
+    "name": "Ayla Bombe – Filter",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/ayla-bombe/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2026/04/AylaBombe_FilterCoffee_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "8735b46b-54ca-42d9-929d-8c2b03fd1691",
+    "name": "Capital",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/capital/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2020/06/Capital_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "bd176ab1-5f7d-4226-8c23-2877b71d38d6",
+    "name": "Colombia SL28",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/quebraditas/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2026/07/ColombiaSL28_FilterCoffee_4K-scaled.jpg",
+    "method": "product"
+  },
+  {
+    "id": "43ff743d-92d3-4dee-a022-298ba2d01aca",
+    "name": "Decaf",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/decaf/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2020/04/Decaf_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "df3b69ac-c02b-40c8-b721-21e7565bd65c",
+    "name": "Ngomano AA – Espresso",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/ngomano-espresso/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2026/07/NgomanoAA_SeasonalEsperesso_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "b30e4861-5f12-47fa-bd47-af4efaa166ba",
+    "name": "Ngomano AA – Filter",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/ngomano/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2026/07/NgomanoAA_FilterCoffee_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "ec620765-3bc1-45f2-9a29-0f0db9dfe54c",
+    "name": "Novum",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/novum/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2019/12/Novum_4K-800x450.jpg",
+    "method": "product"
+  },
+  {
+    "id": "48cd1526-d1a0-43df-9cde-6ef962367594",
+    "name": "Santiago – Espresso",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/santiago-espresso/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2020/04/Santiago-4K-scaled.jpg",
+    "method": "product"
+  },
+  {
+    "id": "628648fb-17c9-4321-8882-d79eae939421",
+    "name": "Santiago – Filter",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/santiago-fk/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2019/04/Santiago-4K-visual-scaled.jpg",
+    "method": "product"
+  },
+  {
+    "id": "d589623e-0b1c-4164-afd7-83c2165f6521",
+    "name": "Sinfonia",
+    "roaster": "Röststätte Berlin",
+    "source_url": "https://www.roeststaette.com/product/sinfonia/",
+    "image_url": "https://www.roeststaette.com/wp-content/uploads/2020/04/Sinfonia_4K-scaled.jpg",
+    "method": "product"
+  },
+  {
+    "id": "2f0c8599-5eb0-46b8-b238-c05e5b5a52f7",
+    "name": "Blackcap",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/espresso-blackcap/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Kraeftiger_Espresso_Blackcap-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "decbd157-caaf-4939-86c7-240312576d7c",
+    "name": "Bunter Bird",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/bunter-bird/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Kaffee_BunterBird-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "058b8244-a65a-4c21-98d6-f14395e49669",
+    "name": "Fire Finch",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/fire-finch/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Fruchtiger_FireFinch_aethiopischer_Kaffee-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "ce692f34-9cdd-42f0-a5cd-ff17ef7fb5ce",
+    "name": "Funky",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/filterkaffee-funky/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Filterkaffee_Funky_Schokoladig_Peru-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "509f31a3-d520-401c-9884-038f4627c267",
+    "name": "Goldfinch",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/goldfinch/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Guatemala_Goldfinch_suesser_Kaffee-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "89e01998-67a4-449f-81b1-078296c86bf0",
+    "name": "Hummingbird",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/espresso-hummingbird/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Espresso_Hummingbird_Schokoladig_Peru-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "bd12d5c5-bc99-44bf-9ba4-c512ba2fa0eb",
+    "name": "Jocotoco",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/espresso-jocotoco/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Espresso_Jocotoco_Kolumbien-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "d38e5b60-ffc0-43f0-9bba-423611572ce7",
+    "name": "Napcap",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/napcap/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2023/10/LowCaf_wenig_Koffein_Napcap-456x456.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "ba517619-4ad1-4d6d-bd34-a5273fe1deef",
+    "name": "Nightingale",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/nightingale-espresso/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Nightingale_Espresso_italienisch-1-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "1a522041-8aaa-4e83-a735-2ef643e60839",
+    "name": "Ostrich",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/ostrich/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Kaffee_Ostrich_Aethiopien-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "f6627c77-8dea-49f5-8e96-652d554eae07",
+    "name": "Pearl Kite",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/espresso-pearlkite/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Espresso_PearlKite_Nougat_Honduras-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "9ecdf35f-9bc5-4e88-99af-18af4f291b8a",
+    "name": "Pezcadito",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/pezcadito-microlot/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Kaffee_Pezcadito_Microlot_Honduras-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "d7408d46-1935-444c-8e25-197370b4e096",
+    "name": "Pintail",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/filterkaffee-pintail/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Filterkaffee_Pintail_Kolumbien-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "ffc49d3c-cd94-4d46-8b66-21f1ef30afcd",
+    "name": "Sleepy Finch",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/sleepy-finch-bio-decaf/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2026/10/sleepy-Finch-decaf-02-480x480.png",
+    "method": "og:image"
+  },
+  {
+    "id": "8f5a9b9b-b6a4-4873-8160-aeb40a98e54d",
+    "name": "Sleepy Owl",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/decaf-entkoffeiniert/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Kaffee_Entkoffeiniert_Decaf_SleepyOwl-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "948d76ca-8bf5-4cc5-8392-bf6ff67b2f06",
+    "name": "Steller’s Jay",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/filterkaffee-stellers-jay/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Filterkaffee_StellersJay_Frauenkooperative_Honduras-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "6c172db3-22bc-440c-b342-fb7a7da2d001",
+    "name": "Sunbird",
+    "roaster": "Flying Roasters",
+    "source_url": "https://www.flyingroasters.de/shop/sunbird-filterkaffee/",
+    "image_url": "https://www.flyingroasters.de/wp-content/uploads/2020/08/Filterkaffee_Sunbird_Sumatra_wuerzig-scaled-600x600.jpg",
+    "method": "og:image"
+  },
+  {
+    "id": "b2dd5c78-ad21-4861-b76c-649fc6618145",
+    "name": "BLOOM - Filter Decaf",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/bloom-grownd-decaf-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/GROWND_Bloom_Mock.png?v=1788878678&width=600",
+    "method": "product"
+  },
+  {
+    "id": "500f5927-edcb-4db4-be41-23e626867637",
+    "name": "Christmas Coffee",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/christmas-coffee",
+    "image_url": "https://19grams.coffee/cdn/shop/files/XmasCoffee_Espresso_Mock.jpg?v=1790774528&width=600",
+    "method": "product"
+  },
+  {
+    "id": "8bed6053-206b-4f7c-8aa0-b5e6b07ba0fd",
+    "name": "Copacabana Brasilien Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/copacabana-brasilien-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Copacabana_250_Mock_4c84ac7f-b2ee-42ec-8ae7-2d55759a49b9.jpg?v=1791791117&width=600",
+    "method": "product"
+  },
+  {
+    "id": "66e56770-0b90-4192-b6f3-b7e1fde3eab4",
+    "name": "DAWN - Espresso Decaf",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/dawn-grownd-decaf-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/GROWND_Dawn_Mock.png?v=1788878680&width=600",
+    "method": "product"
+  },
+  {
+    "id": "47eb9266-5f55-4998-b69d-7d9a3bb6f300",
+    "name": "Decaf - entkoffeinierter Kolumbien Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/entkoffeinierter-kolumbien-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Decaf_Espresso_08c2b9cb-f2f7-45f8-9eb0-a687410f8c54.jpg?v=1755692824&width=600",
+    "method": "product"
+  },
+  {
+    "id": "cb577de6-7101-4e0d-8793-929207ad54fd",
+    "name": "Decaf - entkoffeinierter Kolumbien Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/decaf-kolumbien-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Decaf_Filter_63372fd6-292f-4d0c-bbc4-853e57a470b0.jpg?v=1755692780&width=600",
+    "method": "product"
+  },
+  {
+    "id": "e0ecf58e-d756-4aba-8774-50f61c5bbe8f",
+    "name": "DUSK - Filter Decaf",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/dusk-grownd-decaf-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/GROWND_Dusk_Mock.png?v=1785496318&width=600",
+    "method": "product"
+  },
+  {
+    "id": "df310981-25da-4a99-9749-c0470e81bfe2",
+    "name": "El Diviso Decaf (GROWND)",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/el-diviso-decaf-grownd",
+    "image_url": "https://19grams.coffee/cdn/shop/files/ElDiviso_Mock.jpg?v=1761660383&width=600",
+    "method": "product"
+  },
+  {
+    "id": "46841f83-352f-4a4b-bea3-9f3708916420",
+    "name": "El Oasis - Kolumbien Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/el-oasis-kolumbien-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/ElOasis_2026_Mock.jpg?v=1788357621&width=600",
+    "method": "product"
+  },
+  {
+    "id": "c9eb6429-895e-4b64-b335-01f5bfc94755",
+    "name": "El Vergel - Kolumbien Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/el-vergel-kolumbien-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/ElVergel_Espresso_250_Mock.jpg?v=1782994728&width=600",
+    "method": "product"
+  },
+  {
+    "id": "612b2f86-5389-4945-b07a-9e2023a8350b",
+    "name": "El Vergel - Kolumbien Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/el-vergel-kolumbien-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/ElVergel_Filter_250_Mock.jpg?v=1782992622&width=600",
+    "method": "product"
+  },
+  {
+    "id": "eb4f4441-f2c8-4453-8cd8-eb4afe963c5e",
+    "name": "Endless Summer - Classic Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/endless-summer-classic-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/EndlessSummer_FullDesign_250_Mock.jpg?v=1788252193&width=600",
+    "method": "product"
+  },
+  {
+    "id": "a4450745-1475-49fe-a28d-d02fa24445fd",
+    "name": "Finca Ecologica - Peru Rare Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/finca-ecologica-peru-rare-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/FincaEcologica_250_Mock.jpg?v=1778667314&width=600",
+    "method": "product"
+  },
+  {
+    "id": "d23e7e1b-ffe4-4400-93d6-cb20fa56fa70",
+    "name": "Italo Disco - Espresso für Vollautomaten",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/italo-disco-classic-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/ItaloDisco_FullDesign_250_Mock.jpg?v=1788252193&width=600",
+    "method": "product"
+  },
+  {
+    "id": "4088f34c-a493-41d8-9979-351a3fd995e6",
+    "name": "Kii - Kenia Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/rungeto-kii-kenia-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Kii_Espresso_Mock.jpg?v=1755692387&width=600",
+    "method": "product"
+  },
+  {
+    "id": "7ccf8c32-4aae-4d24-a055-7cfd23628fde",
+    "name": "Kii - Kenia Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/rungeto-kii-kenia-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Kii_Filter_Mock.jpg?v=1755692387&width=600",
+    "method": "product"
+  },
+  {
+    "id": "fd88fc64-d4ee-437c-97f0-4897e6c0491c",
+    "name": "Los Planes - Honduras Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/planes-honduras-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Planes_Espresso_Mock_250.jpg?v=1784891822&width=600",
+    "method": "product"
+  },
+  {
+    "id": "87fa30cb-ff27-474e-ab62-db2e1641fffb",
+    "name": "Los Planes - Honduras Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/planes-honduras-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/Planes_Filter_Mock_250.jpg?v=1784897424&width=600",
+    "method": "product"
+  },
+  {
+    "id": "7265905e-4bbf-4646-846d-b68831807eae",
+    "name": "Roast for the Roar - Wilder Costa Rica Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/roast-for-the-roar-jaguar-kaffee-costa-rica-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/RFTR_Espresso_250_Mock.jpg?v=1791889693&width=600",
+    "method": "product"
+  },
+  {
+    "id": "3872708d-e4be-434b-8643-bff88dd88805",
+    "name": "Roast for the Roar - Wilder Costa Rica Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/roast-for-the-roar-jaguar-kaffee-costa-rica-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/RFTR_Filter_250_Mock.jpg?v=1791889693&width=600",
+    "method": "product"
+  },
+  {
+    "id": "3ab9b6fe-4d44-40e7-ad8e-a666769306fe",
+    "name": "ROOT - Espresso Decaf",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/root-grownd-decaf",
+    "image_url": "https://19grams.coffee/cdn/shop/files/GROWND_Root_Mock.png?v=1788878679&width=600",
+    "method": "product"
+  },
+  {
+    "id": "24bc4155-e956-44cf-bc7d-309534667203",
+    "name": "Simbi Honey - Ruanda Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/simbi-honey-ruanda-espresso",
+    "image_url": "https://19grams.coffee/cdn/shop/files/SimbiHoney_Espresso_250_Mock.jpg?v=1779111359&width=600",
+    "method": "product"
+  },
+  {
+    "id": "cdd95bfc-caf3-48c0-a289-f3bd327de3c6",
+    "name": "Simbi Honey - Ruanda Filter",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/simbi-honey-ruanda-filter",
+    "image_url": "https://19grams.coffee/cdn/shop/files/SimbiHoney_Filter_250_Mock.jpg?v=1779111457&width=600",
+    "method": "product"
+  },
+  {
+    "id": "1a6bde16-8141-43e4-a440-578e4fa67f18",
+    "name": "Spring Bloom - Filterröstung",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/spring-bloom-filter-blend",
+    "image_url": "https://19grams.coffee/cdn/shop/files/SpringBloom.jpg?v=1755692580&width=600",
+    "method": "product"
+  },
+  {
+    "id": "d4ef6d2b-f4b3-462e-979f-3580a3225e92",
+    "name": "Wild At Heart - perfect Espresso",
+    "roaster": "19grams",
+    "source_url": "https://19grams.coffee/products/wild-at-heart",
+    "image_url": "https://19grams.coffee/cdn/shop/files/WAH_FullDesign_250_Mock.jpg?v=1788252193&width=600",
+    "method": "product"
+  },
+  {
+    "id": "957c0063-1615-4420-a0d9-f8d4170669c6",
+    "name": "COLOMBIA Decaf – Omni Roast",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombian-decaf-omni-roast",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Five_Elephant_Decaf_Omni_1.jpg?v=1722928515&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "2bb978fe-c9f1-4f8b-9013-68636b742ce8",
+    "name": "COLOMBIA El Filo Geisha – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-el-filo-geisha-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/ELfiloGeisha_5e319b91-85e0-461e-a397-9fc97584b2ac.jpg?v=1781174539&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "238d2588-e32e-4ce5-9b8d-016529c1a9b1",
+    "name": "COLOMBIA El Mesón – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-el-meson-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Elmeson.jpg?v=1788770146&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "73e9610b-0449-4f03-8442-c83c19eba4ff",
+    "name": "COLOMBIA El Silencio Beer Hops – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-el-silencio-beer-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/ElSilencioHops_261d5ef6-0eb4-431d-964f-6030a8cc3dc2.jpg?v=1789376668&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "a0948501-30a9-4ad3-b84c-5e45627ed1a0",
+    "name": "COLOMBIA Finca Pensilvania Laurina – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-finca-pensilvania-laurina-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Laurina.jpg?v=1791968970&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "ed0a92c1-0d53-4373-b69f-a926cc487afa",
+    "name": "COLOMBIA La Palma – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-la-palma-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/LaPalmaEspresso_8a5e8431-64d3-4e59-84f9-85e996617aba.jpg?v=1789376249&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "600c641e-2036-40a8-94bd-8d32d2c4077c",
+    "name": "COLOMBIA La Virginia – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/colombia-la-virginia-espresso-1",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/colombia_espresso_lavirginia_product_release.png?v=1788253729&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "2e30eff9-cdb6-4988-8a84-b0258b37314e",
+    "name": "EL SALVADOR El Ciprés – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/el-salvador-el-cipres-red-bourbon-natural-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/ElCipres.jpg?v=1791191882&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "1e7f781f-987c-4386-9fab-b7f0844fc4f4",
+    "name": "EL SALVADOR Finca Majahual Orange Bourbon – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/el-salvador-finca-majahual-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/FincaMajahualOrangeBurbon.jpg?v=1791188001&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "91a27d1b-e369-4a53-896a-9094cbe005fb",
+    "name": "EL SALVADOR Tempisque Red Bourbon Natural – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/el-salvador-tempisque-majahual-red-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/burundi_gakenke_product_release_6a1c6616-b840-4bb4-b6ad-61310265a9c7.jpg?v=1790581250&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "9377891d-f774-4b5f-b9eb-097c783dfe7e",
+    "name": "ETHIOPIA Kello Lalesa – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/ethiopia-kelloo-lalesa",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Lalesa.jpg?v=1784199351&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "5feb2d80-bfe0-42b5-9ddf-a0ffbc0240b2",
+    "name": "ETHIOPIA Queen Of Sheba – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/ethiopia-queen-of-sheba-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/SidamaBensaEspresso.jpg?v=1781775184&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "96bcc71f-2cee-4042-908e-b018451490cf",
+    "name": "GUATEMALA Buena Vista – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/guatemala-buena-vista-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/guatemala_espresso_buenavista_catuai_product_release.png?v=1788176277&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "71cf9c21-c6f0-4e12-a920-8efcc8f40ce0",
+    "name": "House – Espresso Coffee",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/house-espresso-coffee",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/House_Espresso_2025.jpg?v=1748269782&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "8634800e-1108-42bb-b401-407c6fe6e681",
+    "name": "House – Filter Coffee",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/house-blend-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/House_Filter_2025_1.jpg?v=1749563723&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "70be3cc3-6c85-405f-9fa3-c76b4e86ecfd",
+    "name": "KENYA Gatura – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/kenya-gatura-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/GaturaFilter.jpg?v=1787567118&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "1d55e8e2-aa3c-4d4f-9f3f-72db7668127d",
+    "name": "KENYA Gondo AB – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/kenya-gondo-ab-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/GondoAb.jpg?v=1791971802&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "aaee3020-16b5-40dd-927c-a6ab667b5b2c",
+    "name": "KENYA Karatu AB – Espresso",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/kenya-karatu-ab-espresso",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/KaratuAB_900x.jpg?v=1786606867&width=600",
+    "method": "product-page-search-cache"
+  },
+  {
+    "id": "9fdcdea2-7b70-49c7-b3ac-ce2e3dd91911",
+    "name": "KENYA Karinga AA – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/kenya-karinga-aa-filter-1",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Karinga.jpg?v=1784199502&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "6aac90c6-9466-4ef1-9e72-97d970464867",
+    "name": "KENYA Thunguri AA – Filter",
+    "roaster": "Five Elephant",
+    "source_url": "https://www.fiveelephant.com/products/kenya-thunguri-aa-filter",
+    "image_url": "https://www.fiveelephant.com/cdn/shop/files/Thunguri.jpg?v=1781512841&width=600",
+    "method": "og:image"
+  },
+  {
+    "id": "99f803ec-34f9-4ac4-8de4-c9bc68f8fa0f",
+    "name": "Feliciano Huayllas, SL9, Peru - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/finca-kuki-pata-sl9-geisha-inca-peru-espresso",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/FelicianoESP_1350x.png?v=1790406888&width=600",
+    "method": "product"
+  },
+  {
+    "id": "63da3a14-2ebc-4124-8040-e7f181bb840a",
+    "name": "Feliciano Huayllas, SL9, Peru - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/finca-kuki-pata-washed-geisha-peru",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/FelicianoFIL_1350x.png?v=1790406934&width=600",
+    "method": "product"
+  },
+  {
+    "id": "caa72568-b9ce-4fe1-97cf-9aa261d2a69b",
+    "name": "Finca Montreal, Colombia - Limited Edition",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/collections/filter-roast/products/finca-montreal-colombia-limited-edition-1",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/Montreal_FIL_1350x.png?v=1760952495&width=600",
+    "method": "product"
+  },
+  {
+    "id": "fad84d4a-554a-4f5b-ac18-b725d79e5196",
+    "name": "Finca San Sebastian, Peru - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/julio-chavez-peru-espresso",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/SanSebastianESP_1350x.png?v=1790406910&width=600",
+    "method": "product"
+  },
+  {
+    "id": "97cc2bff-b167-4756-a3d1-a137ab6dc440",
+    "name": "Gatomboya AA, Kenya - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/gatomboya-aa-kenya-filter",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/GatomboyaAAFIL_1350x.png?v=1790406807&width=600",
+    "method": "product"
+  },
+  {
+    "id": "c4602abf-08c2-46a7-aab6-73503d99ca54",
+    "name": "Hacienda La Esmeralda, Natural Geisha",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/collections/filter-roast/products/special-edition-hacienda-la-esmeralda-natural-geisha-bosque-lot",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/HaciendaLaEsmeraldaSPECIAL_1350x.png?v=1758802555&width=600",
+    "method": "product"
+  },
+  {
+    "id": "a025e930-2332-42f4-a35e-7ed2443a927f",
+    "name": "Kii PB, Kenya - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/kii-pb-kenya-espresso",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/KiiPBESP_1350x.png?v=1790495230&width=600",
+    "method": "product"
+  },
+  {
+    "id": "d903a117-d4e3-42c5-9fce-4b56f33a3239",
+    "name": "Kii PB, Kenya - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/kii-pb-kenya-filter",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/KiiPBFIL_1350x.png?v=1790495072&width=600",
+    "method": "product"
+  },
+  {
+    "id": "c2a795b2-3578-4f3b-a445-e0105a0cade8",
+    "name": "Mukangu AB, Kenya - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/mukangu-kenya-espresso",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/MukanguESP_1350x.png?v=1790406623&width=600",
+    "method": "product"
+  },
+  {
+    "id": "afb7144a-65da-486d-a9ea-a495c86fdd72",
+    "name": "Mukangu AB, Kenya - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/mukangu-kenya-filter",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/MukanguFIL_1350x.png?v=1790406598&width=600",
+    "method": "product"
+  },
+  {
+    "id": "b97b02cf-a116-4318-9785-c6f876663e28",
+    "name": "Newerley Gutierrez, Colombia - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/collections/filter-roast/products/newerley-gutierrez-colombia-masterpiece",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/NewerleyHoneyFIL_b6d9744d-a124-4a69-9323-cb1393162af4_1350x.png?v=1770389824&width=600",
+    "method": "product"
+  },
+  {
+    "id": "8181eb1e-cc15-4330-af7f-dc4c4ddced36",
+    "name": "Okoluu, Ethiopia - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/okoluu-ethiopia-espresso",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/OkoluuESP_6f2b29b0-a7b7-40ad-bb5c-05d547b22f14_1350x.png?v=1790406645&width=600",
+    "method": "product"
+  },
+  {
+    "id": "af980e3a-2f27-4b70-a0e2-7cd1b4d8101b",
+    "name": "Okoluu, Ethiopia - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/okoluu-ethiopia-filter",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/OkoluuFIL_1350x.png?v=1790406669&width=600",
+    "method": "product"
+  },
+  {
+    "id": "89006bcd-2336-4be9-a671-8327a49c82dd",
+    "name": "Victoria Atao, SL9, Peru - Espresso",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/products/victoria-atao-sl9-peru-filter-copy",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/VictoriaAtaoESP_1350x.png?v=1790406841&width=600",
+    "method": "product"
+  },
+  {
+    "id": "4b0f0207-726c-4e91-91a6-8b5a61d9ea19",
+    "name": "Victoria Atao, SL9, Peru - Filter",
+    "roaster": "Father Carpenter",
+    "source_url": "https://www.fathercarpenter.com/collections/filter-roast/products/finca-bella-vista-sl9-geisha-inca-peru",
+    "image_url": "https://fathercarpenter.com/cdn/shop/files/VictoriaAtaoFIL_1350x.png?v=1790406863&width=600",
+    "method": "product"
+  }
+]

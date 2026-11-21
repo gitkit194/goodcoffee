@@ -1,0 +1,532 @@
+{
+ "note": "Roast level and espresso recipe as each roaster states them on its product page. Beans not listed here state neither; their roast level is estimated from roast_for (filter/omni = hell, else mittel).",
+ "coffees": [
+  {
+   "id": "d37e5f4f-a1d3-4f69-befd-31402e43e3aa",
+   "name": "Aponte Espresso",
+   "product_url": "https://kaffeekirsche.berlin/products/aponte-espresso",
+   "roast_level": "dunkel",
+   "roast_quote": "dunkler Kaffee mit reichem Aroma",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "bb80cb60-405c-459d-b15a-ff422cd41fbb",
+   "name": "Äthiopien Bench Maji BIO",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/aethiopien-bench-maji-bio-1020242",
+   "roast_level": "hell",
+   "roast_quote": "Röstgrad Mittel hell",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "31e64d26-62f8-441a-9f31-5811cc3a15bc",
+   "name": "Äthiopien Waldespresso BIO",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/aethiopien-waldespresso-bio-1011702",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "57480d47-d275-4785-96a0-2b3946ece4c0",
+   "name": "Auszeit - Costa Rica natural",
+   "product_url": "https://blaffke.de/products/auszeit",
+   "roast_level": "hell",
+   "roast_quote": "Milder, heller gerösteter Kaffee",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "51c39df5-096d-40fc-a3d9-58413e93507f",
+   "name": "Berliner Perle Espresso",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/berliner-perle-espresso-1070752",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "2f0c8599-5eb0-46b8-b238-c05e5b5a52f7",
+   "name": "Blackcap",
+   "product_url": "https://www.flyingroasters.de/shop/espresso-blackcap/",
+   "roast_level": "dunkel",
+   "roast_quote": "Ein dunkler Espresso-Blend – der ideale Partner für Milchschaum.",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "b2dd5c78-ad21-4861-b76c-649fc6618145",
+   "name": "BLOOM - Filter Decaf",
+   "product_url": "https://19grams.coffee/products/bloom-grownd-decaf-filter",
+   "roast_level": "hell",
+   "roast_quote": "Ein heller, blumiger Filterkaffee",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "3379a13a-916d-4258-9c89-82724bae5ea1",
+   "name": "Brasilien Fazenda da Lagoa",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/brasilien-fazenda-da-lagoa-1010102",
+   "roast_level": "hell",
+   "roast_quote": "Röstgrad Mittel hell",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "8735b46b-54ca-42d9-929d-8c2b03fd1691",
+   "name": "Capital",
+   "product_url": "https://www.roeststaette.com/product/capital/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 18,
+    "yield_g": 39,
+    "time_s": 25,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 18g; Extraction time 24-26; Dose out 38-40g"
+  },
+  {
+   "id": "500f5927-edcb-4db4-be41-23e626867637",
+   "name": "Christmas Coffee",
+   "product_url": "https://19grams.coffee/products/christmas-coffee",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 40,
+    "time_s": 35,
+    "temp_c": null
+   },
+   "recipe_quote": "19gr Kaffee für 40gr Espresso in etwa 35 Sekunden"
+  },
+  {
+   "id": "8bed6053-206b-4f7c-8aa0-b5e6b07ba0fd",
+   "name": "Copacabana Brasilien Espresso",
+   "product_url": "https://19grams.coffee/products/copacabana-brasilien-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "fb3b7eb6-33f8-4787-8cfe-4d65032dd84b",
+   "name": "Dark Roast",
+   "product_url": "https://bonanzacoffee.de/products/dark-roast",
+   "roast_level": "dunkel",
+   "roast_quote": "Here we present our take on the Dark Roast.",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "36912685-05bc-415a-af0a-864cf275e83f",
+   "name": "Dark Side Espresso",
+   "product_url": "https://kaffeekirsche.berlin/products/dark-side-espresso",
+   "roast_level": "dunkel",
+   "roast_quote": "einen kräftigen, dunklen Espressoblend zu kreieren",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "66e56770-0b90-4192-b6f3-b7e1fde3eab4",
+   "name": "DAWN - Espresso Decaf",
+   "product_url": "https://19grams.coffee/products/dawn-grownd-decaf-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "43ff743d-92d3-4dee-a022-298ba2d01aca",
+   "name": "Decaf",
+   "product_url": "https://www.roeststaette.com/product/decaf/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 38,
+    "time_s": 28,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 19g; Extraction time 27/29; Dose out 38g"
+  },
+  {
+   "id": "47eb9266-5f55-4998-b69d-7d9a3bb6f300",
+   "name": "Decaf - entkoffeinierter Kolumbien Espresso",
+   "product_url": "https://19grams.coffee/products/entkoffeinierter-kolumbien-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 40,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "19gr Kaffee für 40gr Espresso, Brühzeit: 30-35 S"
+  },
+  {
+   "id": "c9eb6429-895e-4b64-b335-01f5bfc94755",
+   "name": "El Vergel - Kolumbien Espresso",
+   "product_url": "https://19grams.coffee/products/el-vergel-kolumbien-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "eb4f4441-f2c8-4453-8cd8-eb4afe963c5e",
+   "name": "Endless Summer - Classic Espresso",
+   "product_url": "https://19grams.coffee/products/endless-summer-classic-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "92dfcb3f-a507-4322-9cd9-3b18d71af54b",
+   "name": "Espresso Supremo BIO",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/espresso-supremo-bio-1060202",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "058b8244-a65a-4c21-98d6-f14395e49669",
+   "name": "Fire Finch",
+   "product_url": "https://www.flyingroasters.de/shop/fire-finch/",
+   "roast_level": "hell",
+   "roast_quote": "als Espresso ist es eine helle Röstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "80c4da11-abb1-41bc-896a-ece3b51641ea",
+   "name": "Florentiner Espresso",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/florentiner-espresso-1010072",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "ce692f34-9cdd-42f0-a5cd-ff17ef7fb5ce",
+   "name": "Funky",
+   "product_url": "https://www.flyingroasters.de/shop/filterkaffee-funky/",
+   "roast_level": "mittel",
+   "roast_quote": "Ein Single Origin Kaffee in einer mittleren Röstung.",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "509f31a3-d520-401c-9884-038f4627c267",
+   "name": "Goldfinch",
+   "product_url": "https://www.flyingroasters.de/shop/goldfinch/",
+   "roast_level": "hell",
+   "roast_quote": "als Espresso ist es eine helle Röstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "89e01998-67a4-449f-81b1-078296c86bf0",
+   "name": "Hummingbird",
+   "product_url": "https://www.flyingroasters.de/shop/espresso-hummingbird/",
+   "roast_level": "mittel",
+   "roast_quote": "Ein Single Origin Espresso in einer mittleren Röstung.",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "da438c1c-5793-46dd-b080-036decabbf47",
+   "name": "Indien Malabar Monsunkaffee",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/indien-malabar-monsunkaffee-1050602",
+   "roast_level": "hell",
+   "roast_quote": "Röstgrad Hell",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "5f84a3f5-14de-48d9-9f19-e85aca752746",
+   "name": "Indien Monsunespresso",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/indien-monsunespresso-1060952",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "fd2b2457-2a95-4818-b54f-8b8566e3a288",
+   "name": "Indonesien Java Blawan",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/indonesien-java-blawan-1071752",
+   "roast_level": "hell",
+   "roast_quote": "Röstgrad Mittel hell",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "d23e7e1b-ffe4-4400-93d6-cb20fa56fa70",
+   "name": "Italo Disco - Espresso für Vollautomaten",
+   "product_url": "https://19grams.coffee/products/italo-disco-classic-espresso",
+   "roast_level": "dunkel",
+   "roast_quote": "mit einer dunklen, jedoch nicht zu intensiven Röstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "7c182121-b7dd-41f7-b5ad-99cb80e4dc55",
+   "name": "Kenia AA+ Samburu",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/kenia-aa-samburu-1020302",
+   "roast_level": "hell",
+   "roast_quote": "Röstgrad Mittel hell",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "4088f34c-a493-41d8-9979-351a3fd995e6",
+   "name": "Kii - Kenia Espresso",
+   "product_url": "https://19grams.coffee/products/rungeto-kii-kenia-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "fd88fc64-d4ee-437c-97f0-4897e6c0491c",
+   "name": "Los Planes - Honduras Espresso",
+   "product_url": "https://19grams.coffee/products/planes-honduras-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "a318636c-6148-48d2-9506-3eddd92f174c",
+   "name": "Mailänder Espresso",
+   "product_url": "https://shop.berliner-kaffeeroesterei.de/mailaender-espresso-1060102",
+   "roast_level": "dunkel",
+   "roast_quote": "Röstgrad Mittel dunkel",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "d38e5b60-ffc0-43f0-9bba-423611572ce7",
+   "name": "Napcap",
+   "product_url": "https://www.flyingroasters.de/shop/napcap/",
+   "roast_level": "dunkel",
+   "roast_quote": "Ein dunkler Bio-Espresso-Blend mit weniger Koffein",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "df3b69ac-c02b-40c8-b721-21e7565bd65c",
+   "name": "Ngomano AA – Espresso",
+   "product_url": "https://www.roeststaette.com/product/ngomano-espresso/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 18.5,
+    "yield_g": 40,
+    "time_s": 23,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 18,5g; Extraction time 22-23s; Dose out 40g"
+  },
+  {
+   "id": "ba517619-4ad1-4d6d-bd34-a5273fe1deef",
+   "name": "Nightingale",
+   "product_url": "https://www.flyingroasters.de/shop/nightingale-espresso/",
+   "roast_level": "dunkel",
+   "roast_quote": "Ein dunkel gerösteter klassischer Espresso",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "ec620765-3bc1-45f2-9a29-0f0db9dfe54c",
+   "name": "Novum",
+   "product_url": "https://www.roeststaette.com/product/novum/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 18.5,
+    "yield_g": 39,
+    "time_s": 25,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 18.5g; Extraction time 25 sec; Dose out 39g"
+  },
+  {
+   "id": "1a522041-8aaa-4e83-a735-2ef643e60839",
+   "name": "Ostrich",
+   "product_url": "https://www.flyingroasters.de/shop/ostrich/",
+   "roast_level": "hell",
+   "roast_quote": "als Espresso ist es eine helle Röstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "d7408d46-1935-444c-8e25-197370b4e096",
+   "name": "Pintail",
+   "product_url": "https://www.flyingroasters.de/shop/filterkaffee-pintail/",
+   "roast_level": "hell",
+   "roast_quote": "helle Filterröstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "7265905e-4bbf-4646-846d-b68831807eae",
+   "name": "Roast for the Roar - Wilder Costa Rica Espresso",
+   "product_url": "https://19grams.coffee/products/roast-for-the-roar-jaguar-kaffee-costa-rica-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "3872708d-e4be-434b-8643-bff88dd88805",
+   "name": "Roast for the Roar - Wilder Costa Rica Filter",
+   "product_url": "https://19grams.coffee/products/roast-for-the-roar-jaguar-kaffee-costa-rica-filter",
+   "roast_level": "hell",
+   "roast_quote": "Er ist heller geröstet als der Jaguar",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "3ab9b6fe-4d44-40e7-ad8e-a666769306fe",
+   "name": "ROOT - Espresso Decaf",
+   "product_url": "https://19grams.coffee/products/root-grownd-decaf",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "2b96e84b-1154-4f69-9b80-84c8882fe8a2",
+   "name": "Santa Catarina Espresso",
+   "product_url": "https://kaffeekirsche.berlin/products/santa-catarina-espresso",
+   "roast_level": "dunkel",
+   "roast_quote": "dunkel geröstet",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "48cd1526-d1a0-43df-9cde-6ef962367594",
+   "name": "Santiago – Espresso",
+   "product_url": "https://www.roeststaette.com/product/santiago-espresso/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 38,
+    "time_s": 28,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 19g; Extraction time 28; Dose out 38g"
+  },
+  {
+   "id": "24bc4155-e956-44cf-bc7d-309534667203",
+   "name": "Simbi Honey - Ruanda Espresso",
+   "product_url": "https://19grams.coffee/products/simbi-honey-ruanda-espresso",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  },
+  {
+   "id": "d589623e-0b1c-4164-afd7-83c2165f6521",
+   "name": "Sinfonia",
+   "product_url": "https://www.roeststaette.com/product/sinfonia/",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 38,
+    "time_s": 27,
+    "temp_c": 93.5
+   },
+   "recipe_quote": "93,5 °C; Dose in 19g; Extraction time 26/28; Dose out 38g"
+  },
+  {
+   "id": "8f5a9b9b-b6a4-4873-8160-aeb40a98e54d",
+   "name": "Sleepy Owl",
+   "product_url": "https://www.flyingroasters.de/shop/decaf-entkoffeiniert/",
+   "roast_level": "hell",
+   "roast_quote": "Als Espresso zubereitet zählt er eher zu den helleren Röstungen",
+   "recipe": {
+    "dose_g": 18,
+    "yield_g": 38,
+    "time_s": 26,
+    "temp_c": 93
+   },
+   "recipe_quote": "18 g in / 38 g out double shot / 26 s Bezugszeit bei 92 bis 94 Grad"
+  },
+  {
+   "id": "948d76ca-8bf5-4cc5-8392-bf6ff67b2f06",
+   "name": "Steller’s Jay",
+   "product_url": "https://www.flyingroasters.de/shop/filterkaffee-stellers-jay/",
+   "roast_level": "hell",
+   "roast_quote": "relativ helle Filterröstung",
+   "recipe": null,
+   "recipe_quote": null
+  },
+  {
+   "id": "d4ef6d2b-f4b3-462e-979f-3580a3225e92",
+   "name": "Wild At Heart - perfect Espresso",
+   "product_url": "https://19grams.coffee/products/wild-at-heart",
+   "roast_level": null,
+   "roast_quote": null,
+   "recipe": {
+    "dose_g": 19,
+    "yield_g": 47.5,
+    "time_s": 33,
+    "temp_c": null
+   },
+   "recipe_quote": "1:2,5 (z.B. 19gr Kaffee auf 47,5gr Wasser) in 30-35 Sekunden"
+  }
+ ]
+}
